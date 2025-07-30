@@ -16,7 +16,8 @@ After getting to know what the challenge wants, now we just need to find a way t
 Since we are working with XSS, my first instinct was to look for ways to maniuplate the URL
 At first, I tried to insert the payload directly into the URL path to see if the application would execute it.
 
-<br/><br/> <img width="1594" height="175" alt="image" src="https://github.com/user-attachments/assets/2ca81433-8003-48e6-929e-b1030876f2f6" /> <br/><br/>
+<br/><br/>![Untitled-1](https://github.com/user-attachments/assets/929c3303-1f42-4389-9567-9b22ddf04a46)
+ <br/><br/>
 
 No luck as it just returns us to the previous URL when we press enter.
 
