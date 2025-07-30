@@ -16,3 +16,8 @@ For me, I cloned directly from their github but you can choose to install their 
 After installation, to access JuiceShop on default setting,  go to any browser on your machine and go to localhost:3000.
 
 Now we have a vulnerable web application running on our local host where we can try all sorts of exploits on.
+
+
+"The application contains a vast number of hacking challenges of varying difficulty where the user is supposed to exploit the underlying vulnerabilities. The hacking progress is tracked on a score board. Finding this score board is actually one of the (easy) challenges!"
+
+So from the main page of JuiceShop, we can see that they implemented a scoreboard to track challenges but we first need to find it, after finding the score board we can start on solving the challenges.
