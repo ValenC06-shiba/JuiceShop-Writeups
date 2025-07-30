@@ -1,5 +1,5 @@
 The first step is finding the Score board so i began by playing around with the UI of the application and didnt find any scoreboards
-[[https://github.com/ValenC06-shiba/JuiceShop-Writeups/blob/main/images/main.png|alt=Juiceshop]]
+<img width="1600" height="864" alt="Screenshot 2025-07-30 102957" src="https://github.com/user-attachments/assets/cddcf059-5728-4b6c-854d-971e71a241f3" />
 
 Assuming my eyes aren't that bad, I decided to take a more detailed approach by using the inspect tool on the browser to look for more clues
 
