@@ -30,7 +30,8 @@ Knowing this, I copied the payload into the search bar and pressed enter
 
 <br/><br/> <img width="1601" height="840" alt="image" src="https://github.com/user-attachments/assets/bff03a0a-3a49-4475-a432-ddb9b6986780" /> <br/><br/>
 
-Success!! Due to improper input sanitization, the web app processed the search bar input directly into the DOM, allowing the XSS payload to execute.
+# Success!! 
+Due to improper input sanitization, the web app processed the search bar input directly into the DOM, allowing the XSS payload to execute.
 
 This reveals the dangers of improper input sanitization, as it allows attackers to inject and execute scripts, potentially leading to session hijacking, data theft, or full account compromise. For this reason, Developers should always be careful and validate, sanitize, and properly encode all user inputs, especially when inserting them into the DOM, to prevent vulnerabilities like DOM-based XSS.
 
