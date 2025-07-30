@@ -1,2 +1,14 @@
 # JuiceShop-Writeups
 Repository where I explain on OWASP's JuiceShop challenges as best as I can :3
+
+"OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications!" 
+
+As the main description from OWASP themselves, Juice Shop is a playing ground for security enthusiasts alike to test their knowledge on Web Application Security
+
+Their main page can be found on https://owasp.org/www-project-juice-shop/
+
+To get started we first need to install the software:
+Getting in to the main page of the website, we can see on the right a section for installation
+
+To install, simply follow the steps detailed in their GitHub page at: https://github.com/juice-shop/juice-shop#from-sources
+For me, I cloned directly from their github but you can choose to install their docker version as well
