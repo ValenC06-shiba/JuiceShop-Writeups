@@ -11,7 +11,7 @@ Getting in to the main page of the website, we can see on the right a section fo
 
 To install, simply follow the steps detailed in their GitHub page at: https://github.com/juice-shop/juice-shop#from-sources
 
-For me, I cloned directly from their github but you can choose to install their docker version as well.
+For me, I cloned directly from their github into my kali vm but you can choose to install their docker version as well.
 
 After installation, to access JuiceShop on default setting,  go to any browser on your machine and go to localhost:3000.
 
