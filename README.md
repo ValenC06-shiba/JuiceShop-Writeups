@@ -1,5 +1,5 @@
 # JuiceShop-Writeups
-Repository where I explain on OWASP's JuiceShop challenges as best as I can :3
+Having little to no experience in web development, I challenged myself to learn the field by doing the challenges in JuiceShop, this repository will be where I try to explain on OWASP's JuiceShop challenges as best as I can :D
 
 "OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications!" 
 
